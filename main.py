@@ -44,7 +44,7 @@ if __name__ == "__main__":
         print("\n📊 Resultados para JSON:")
         processar_dados(dados)
     elif opcao == "2":
-        dados = ler_xml("dados (2).xml")
+        dados = ler_xml("dados.xml")
         print("\n📊 Resultados para XML:")
         processar_dados(dados)
     else:

@@ -31,7 +31,7 @@ def ler_xml(caminho):
 if __name__ == "__main__":
     print("Escolha o arquivo para processar:")
     print("1 - dados.json")
-    print("2 - dados (2).xml")
+    print("2 - dados.xml")
     opcao = input("Digite 1 ou 2: ")
 
     if opcao == "1":
