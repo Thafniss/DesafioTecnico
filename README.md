@@ -50,6 +50,8 @@ cd seu-repositorio
  ```
 4. Escolha uma opção (de 1 a 5) para rodar o desafio correspondente.
 
+
+
 📁 Arquivos
 main.py: Menu interativo
 
@@ -64,3 +66,4 @@ desafio4_percentual.py
 desafio5_inverter.py
 
 dados.json, dados.xml: Usados no desafio 3
+
