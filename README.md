@@ -39,3 +39,28 @@ Inverte os caracteres de uma string informada pelo usuário, sem usar funções 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Thafniss/DesafioTecnico.git
+```
+2. Acesse a pasta
+```bash
+cd seu-repositorio
+```
+3. Rode o menu principal:
+ ```bash
+ python main.py
+ ```
+4. Escolha uma opção (de 1 a 5) para rodar o desafio correspondente.
+
+📁 Arquivos
+main.py: Menu interativo
+
+desafio1_soma.py
+
+desafio2_fibonacci.py
+
+desafio3_faturamento.py
+
+desafio4_percentual.py
+
+desafio5_inverter.py
+
+dados.json, dados.xml: Usados no desafio 3
